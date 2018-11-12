@@ -13,7 +13,7 @@ class AccountController extends Controller
      */
     public function index()
     {
-        foreach ()
+        return view('index');
     }
 
     /**
